@@ -1,5 +1,6 @@
 # Fall-Detection-and-Human-Activity-Recognition
 <h2>Team Details</h2>
+<b>Team Number: </b> 24AACR12
 <b>Senior Mentor:</b><p> Rohitha Tunikpati</p>
 <b>Junior Mentor:</b><p> Yellanki Ekantha Sai Sundar</p>
 <b>Team Member 1:</b><p> N. Sumith Chandra</p>
