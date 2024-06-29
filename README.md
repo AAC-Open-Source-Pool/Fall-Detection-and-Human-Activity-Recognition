@@ -1,4 +1,4 @@
-# Fall-Detection-and-Human-Activity-Recognition
+#Fall-Detection-and-Human-Activity-Recognition
 <h2>Team Details</h2>
 <b>Team Number: </b> <p>24AACR12</p>
 <b>Senior Mentor:</b><p> Rohitha Tunikpati</p>
