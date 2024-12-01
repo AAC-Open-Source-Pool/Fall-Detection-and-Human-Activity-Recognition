@@ -8,3 +8,7 @@
 <b>Team Member 3:</b><p> Chityala Srakshin</p>
 <b>Team Member 4:</b><p> Priyanshi Arora</p>
 <b>Team Member 5:</b><p> T. Sai Hasika</p>
+
+<div align="center">
+  <img src="">
+</div>
