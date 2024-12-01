@@ -74,7 +74,7 @@ urllib3            2.2.3
 
 <h2>How-to-use</h2>
 <p>Follow these steps to run the project:<p>
-clone: ```git clone https://github.com/AAC-Open-Source-Poul/Fall-Detection-and-Sign-Alert.git```
+clone: ```git clone https://github.com/AAC-Open-Source-Pool/Fall-Detection-and-Human-Activity-Recognition```
 </p>install the required libraries:</p>
 <p>```pip install -r requirements.txt```</p>
 </p>Run the detection script:</p>
