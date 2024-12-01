@@ -82,4 +82,7 @@ clone: ```git clone https://github.com/AAC-Open-Source-Poul/Fall-Detection-and-S
 </p>make sure provide an video input path in code
 </p>
 
+<h2>Preview</h2>
+<p>Below is an example of the fall detection system in action:</p>
+
 
