@@ -86,4 +86,4 @@ clone: ```git clone https://github.com/AAC-Open-Source-Poul/Fall-Detection-and-S
 <p>Below is an example of the fall detection system in action:</p>
 
 <h2>Contribution</h2>
-<p>We welcome contributions to improve the Fall Detection and Human Activity Recognition project</p>
+<p>We welcome contributions to improve the Fall Detection Project</p>
