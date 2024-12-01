@@ -73,13 +73,13 @@ urllib3            2.2.3
 
 
 <h2>How-to-use</h2>
-<p>Follow these steps to run the project:
+<p>Follow these steps to run the project:<p>
 clone: ```git clone https://github.com/AAC-Open-Source-Poul/Fall-Detection-and-Sign-Alert.git```
-install the required libraries: 
-```pip install -r requirements.txt
-Run the detection script:
-python fall_detection.py
-make sure provide an video input path in code
+</p>install the required libraries:</p>
+<p>```pip install -r requirements.txt```</p>
+</p>Run the detection script:</p>
+</p>```python fall_detection.py</p>
+</p>make sure provide an video input path in code
 </p>
 
 
