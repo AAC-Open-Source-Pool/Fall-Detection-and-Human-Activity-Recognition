@@ -73,14 +73,24 @@ urllib3            2.2.3
 
 
 <h2>How-to-use</h2>
-<p>Follow these steps to run the project:<p>
-clone: ```git clone https://github.com/AAC-Open-Source-Pool/Fall-Detection-and-Human-Activity-Recognition```
-</p>install the required libraries:</p>
-<p>```pip install -r requirements.txt```</p>
-</p>Run the detection script:</p>
-</p>```python fall_detection.py</p>
-</p>make sure provide an video input path in code
-</p>
+<p>Follow these steps to run the project:</br>
+clone: </p>
+
+  ```terminal 
+  git clone https://github.com/AAC-Open-Source-Pool/Fall-Detection-and-Human-Activity-Recognition
+  ```
+<p>install the required libraries:</p>
+
+```terminal 
+pip install -r requirements.txt
+```
+
+<p>Run the detection script:</p>
+
+```terminal 
+python fall.py
+```
+<p>make sure you provide the video input path in code in cap.caputure()</p>
 
 <h2>Preview</h2>
 <p>Below is an example of the fall detection system in action:</p>
