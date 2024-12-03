@@ -96,6 +96,7 @@ python sms.py
 <p>Below is an example of the fall detection system in action:</p>
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/AAC-Open-Source-Pool/Fall-Detection-and-Human-Activity-Recognition/blob/main/Screenshot%202024-11-17%20123749.png">
+  <img src = "https://github.com/AAC-Open-Source-Pool/Fall-Detection-and-Human-Activity-Recognition/blob/main/sms.jpg">
 </div>
 
 <h2>Contribution</h2>
