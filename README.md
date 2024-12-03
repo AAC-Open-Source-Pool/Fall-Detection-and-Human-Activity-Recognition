@@ -88,7 +88,7 @@ pip install -r requirements.txt
 <p>Run the detection script:</p>
 
 ```terminal 
-python fall.py
+python sms.py
 ```
 <p>make sure you provide the video input path in code in cap.caputure()</p>
 
