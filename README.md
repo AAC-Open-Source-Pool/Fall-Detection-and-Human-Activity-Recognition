@@ -18,7 +18,7 @@
 
 <h2>Introduction</h2>
 <p> 
-This project focuses on detecting falls and providing real-time alerts using advanced computer vision techniques. The aim is to enhance safety in environments such as homes, healthcare facilities, or industrial sites. The model identifies individuals using YOLOv8 and detects abnormal postures indicative of a fall. An alert is displayed when a fall is detected, ensuring timely intervention
+This project focuses on detecting falls and providing real-time alerts using advanced computer vision techniques. The aim is to enhance safety in environments such as homes, healthcare facilities, or industrial sites. The model identifies individuals using YOLOv8 and detects abnormal postures indicative of a fall. When a fall is detected, an alert is displayed, and an SMS is automatically sent to the registered number, ensuring timely intervention.
 </p>
 
 
